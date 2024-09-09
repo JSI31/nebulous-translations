@@ -31,16 +31,16 @@
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
 
-    <string name="_Rank_">" المرتبة "</string>
-    <string name="_Alias_">" الإسم المُستعار "</string>
+    <string name="_Rank_">الرتبة"</string>
+    <string name="_Alias_">" الاسم المُستعار "</string>
     <string name="_Score_">" النقاط "</string>
     <string name="Score__">"النقاط: "</string>
     <string name="Recombine_">"إعادة التجميع: "</string>
     <string name="WINNER_">"الفائز:"</string>
-    <string name="IDLE">"خمول"</string>
-    <string name="Name_Invalid_">"الإسم غير صالح !"</string>
+    <string name="IDLE">"مشغول"</string>
+    <string name="Name_Invalid_">" الإسم مستخدم !"</string>
     <string name="Name_Taken_">"الاسم مستعمل."</string>
-    <string name="CONNECTED">"مُتصل"</string>
+    <string name="CONNECTED">"مُتــصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
     <string name="PLAYING">"في طور اللعب"</string>
     <string name="MULTIPLAYER">"متعدد اللاعبين"</string>
@@ -49,7 +49,7 @@
 
 
     <string name="Lobby_Name">"أسم السيرفر"</string>
-    <string name="Not_found_">"لم يتم العثور عليه."</string>
+    <string name="Not_found_">"لم يتم العثور علية."</string>
 
     <string name="Hidden">"مخفي"</string>
 
@@ -1106,8 +1106,8 @@
     <string name="ENEMY">عدو</string>
     <string name="ALLY">حليف</string>
     <string name="Rename">إعادة التسمية</string>
-    <string name="Set_friendly_name_">حدد اسما لصديقك.</string>
-    <string name="Leave_blank_for_none_">اترك فراغا لعدم التغيير.</string>
+    <string name="Set_friendly_name_">حدد إسما لصديقك.</string>
+    <string name="Leave_blank_for_none_">أترك فراغا لعدم التغيير.</string>
     <string name="Vote_Kick">طرد اللاعب</string>
     <string name="FONT">نوع الخط</string>
     <string name="CIRCLE">دائرة</string>
@@ -1350,7 +1350,7 @@ Commands:
     <string name="CAMPAIGN_2">حملة ضد الاَليين 2</string>
     <string name="India">الهند</string>
     <string name="Tutorial">الدورة التعليمية</string>
-    <string name="TYCOON">حاصِد</string>
+    <string name="TYCOON">حاصد</string>
     <string name="CLAN_BACKGROUND_COLOR">لون خلفية العشيرة</string>
     <string name="activate">تفعيل</string>
     <string name="clan_id">رقم هوية العشيرة</string>
@@ -1376,7 +1376,7 @@ Commands:
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
-    <string name="Translator">متـرجـم</string>
+    <string name="Translator">مُتـرجـم</string>
     <string name="SUCCESS">تم بنجاح</string>
 
 
